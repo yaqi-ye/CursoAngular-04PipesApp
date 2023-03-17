@@ -28,7 +28,7 @@ export class MenuComponent {
                     },
                     {
                         label: 'Números',
-                        icon: 'pi pi-dollar',
+                        icon: 'pi pi-euro',
                         routerLink: 'numeros'
                     },
                     {
